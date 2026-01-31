@@ -42,7 +42,7 @@ AI 育兒助手，陪伴新手爸媽的每一天。
 
 ### AI & Analytics
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-191919?logo=anthropic&logoColor=white)
 
 ## 聯絡我們
